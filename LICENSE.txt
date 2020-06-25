@@ -1,3 +1,3 @@
 # LICENSE
 
-## Hihu
+## Apache 3.0
